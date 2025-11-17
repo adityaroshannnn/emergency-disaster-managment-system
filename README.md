@@ -169,12 +169,4 @@ If this project helped you, please ⭐ star the repository!
 
 ---
 
-If you want, I can also:
-
-✅ generate a **GitHub profile banner**  
-✅ design a **professional futuristic UI screenshot mockup**  
-✅ write a **project description for your resume**  
-✅ rewrite the README in a more premium style  
-
-Just tell me!
 
